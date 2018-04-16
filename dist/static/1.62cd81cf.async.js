@@ -1,0 +1,1 @@
+webpackJsonp([1],{"9+6m":function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=(a("Se1r"),a("RmUp")),l=a("h3uD"),r=a.n(l),u=a("pmgg"),c=a.n(u),i=r.a.createElement("div",null,r.a.createElement("div",null,"Index Page"),r.a.createElement(c.a,{to:"/list"},r.a.createElement(n.a,{type:"primary"},"Go To list")));t.default=function(){return i}}});
